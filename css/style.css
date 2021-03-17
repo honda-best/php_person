@@ -1,0 +1,18 @@
+
+.wrapper {
+	background-color: #cfcfcf;
+	color: #000000;
+	margin: 0 auto;
+	width: 70%;
+	font-size: 20px;
+	line-height: 30px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 10px 0;
+	align-self: center;
+}
+
+h3 {
+	color: crimson;
+}
